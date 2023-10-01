@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'My first blog post'
+title: 'My First blog post'
 pubDate: "Sep 23 2023"
 description: "This my first astro markdown file"
 author: "Farhan K"
